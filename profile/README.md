@@ -42,5 +42,5 @@ For questions, suggestions, bug reports or other inquiries, please use the appro
 
 ---
 
-<sub>A [HMLabs](https://github.com/HMLabs-HQ) Project.</sub>  
+<sub>A [HMLabs](https://hmlabs.eu) Project.</sub>  
 <sub>Maintained with ❤ by [Henry Meyer](https://henrymeyer.de).</sub>
