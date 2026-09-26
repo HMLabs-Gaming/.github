@@ -1,8 +1,8 @@
-# HenryMM Gaming
+# HMLabs Gaming
 
 Minecraft projects by Henry Meyer.
 
-HenryMM Gaming is a collection of Minecraft projects focused on creating mods, plugins, modpacks and resource packs. The goal is to build reliable, well-designed and enjoyable projects for the Minecraft community.
+HMLabs Gaming is a collection of Minecraft projects focused on creating mods, plugins, modpacks and resource packs. The goal is to build reliable, well-designed and enjoyable projects for the Minecraft community.
 
 ## Projects
 
@@ -18,7 +18,7 @@ All projects are developed with a focus on quality, compatibility and a good use
 
 ## Platforms
 
-You can find HenryMM Gaming projects on the following platforms:
+You can find HMLabs Gaming projects on the following platforms:
 
 * [GitHub](https://github.com/HenryMM-Gaming)
 * [Modrinth](https://modrinth.com/organization/henrymm-gaming)
@@ -26,9 +26,9 @@ You can find HenryMM Gaming projects on the following platforms:
 
 ## Website
 
-Visit the official HenryMM Gaming website for an overview of our projects and releases:
+Visit the official HMLabs Gaming website for an overview of our projects and releases:
 
-https://gaming.henrymeyer.de/
+https://gaming.hmlabs.eu/
 
 ## Development
 
@@ -42,4 +42,5 @@ For questions, suggestions, bug reports or other inquiries, please use the appro
 
 ---
 
-<sub>Made with ❤ by [Henry Meyer](https://henrymeyer.de).</sub>
+<sub>A HMLabs Project.</sub>  
+<sub>Maintained with ❤ by [Henry Meyer](https://henrymeyer.de).</sub>
