@@ -21,7 +21,7 @@ All projects are developed with a focus on quality, compatibility and a good use
 You can find HMLabs Gaming projects on the following platforms:
 
 * [GitHub](https://github.com/HenryMM-Gaming)
-* [Modrinth](https://modrinth.com/organization/henrymm-gaming)
+* [Modrinth](https://modrinth.com/organization/9zYhowm8)
 * [CurseForge](https://www.curseforge.com/members/henrymmey)
 
 ## Website
@@ -42,5 +42,5 @@ For questions, suggestions, bug reports or other inquiries, please use the appro
 
 ---
 
-<sub>A HMLabs Project.</sub>  
+<sub>A [HMLabs](https://github.com/HMLabs-HQ) Project.</sub>  
 <sub>Maintained with ❤ by [Henry Meyer](https://henrymeyer.de).</sub>
