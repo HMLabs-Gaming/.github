@@ -35,11 +35,6 @@ You can find HMLabs Gaming projects on the following platforms:
 * [Modrinth](https://modrinth.com/organization/9zYhowm8)
 * [CurseForge](https://www.curseforge.com/members/henrymmey)
 
-**Plugins**
-
-* [HMTAPI](https://github.com/TitanSMP/HMTAPI)
-* [HMTSync](https://github.com/TitanSMP/HMTSync)
-
 ## Website
 
 Visit the official HMLabs Gaming website for an overview of our projects and releases:
