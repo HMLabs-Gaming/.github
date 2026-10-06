@@ -31,15 +31,10 @@ All projects are developed with a focus on quality, compatibility and a good use
 
 You can find HMLabs Gaming projects on the following platforms:
 
+* [Website](https://gaming.hmlabs.eu)
 * [GitHub](https://github.com/HMLabs-Gaming)
 * [Modrinth](https://modrinth.com/organization/9zYhowm8)
 * [CurseForge](https://www.curseforge.com/members/henrymmey)
-
-## Website
-
-Visit the official HMLabs Gaming website for an overview of our projects and releases:
-
-https://gaming.hmlabs.eu/
 
 ## Development
 
