@@ -6,13 +6,24 @@ HMLabs Gaming is a collection of Minecraft projects focused on creating mods, pl
 
 ## Projects
 
-Our projects include:
+**Modpacks**
 
-* Minecraft Mods
-* Minecraft Plugins
-* Modpacks
-* Resource Packs
-* Tools and other Minecraft-related projects
+* [HM Basic Play](https://github.com/HMLabs-Gaming/hm-basic-play)
+* [JS Combat Pro](https://gaming.hmlabs.eu/projects/modpacks/js-combat-pro/)
+* [HM Life+](https://github.com/HMLabs-Gaming/hm-lifep)
+* [JS Performance Core](https://gaming.hmlabs.eu/projects/modpacks/js-performance-core/)
+* [HMT Pack](https://github.com/HMLabs-Gaming/hmt-pack)
+
+**Resource Packs**
+
+* [JS Green Ores](https://gaming.hmlabs.eu/projects/resourcepacks/js-green-ores/)
+* [JS Cyan Ores](https://gaming.hmlabs.eu/projects/resourcepacks/js-cyan-ores/)
+* [JS Removed Crosshair](https://gaming.hmlabs.eu/projects/resourcepacks/js-removed-crosshair/)
+
+**Mods**
+
+* [Attribute PVP Helper Reforged](https://github.com/HMLabs-Gaming/attribute-pvp-helper)
+* [HM Stats](https://github.com/HMLabs-Gaming-Stats-Mod)
 
 All projects are developed with a focus on quality, compatibility and a good user experience.
 
@@ -23,6 +34,11 @@ You can find HMLabs Gaming projects on the following platforms:
 * [GitHub](https://github.com/HMLabs-Gaming)
 * [Modrinth](https://modrinth.com/organization/9zYhowm8)
 * [CurseForge](https://www.curseforge.com/members/henrymmey)
+
+**Plugins**
+
+* [HMTAPI](https://github.com/TitanSMP/HMTAPI)
+* [HMTSync](https://github.com/TitanSMP/HMTSync)
 
 ## Website
 
