@@ -49,4 +49,5 @@ For questions, suggestions, bug reports or other inquiries, please use the appro
 ---
 
 <sub>A [HMLabs](https://hmlabs.eu) Project.</sub>  
-<sub>Maintained with ❤ by [Henry Meyer](https://henrymeyer.de).</sub>
+<sub>Maintained with ❤ by [Henry Meyer](https://henrymeyer.de).</sub>  
+<sub>NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.</sub>
