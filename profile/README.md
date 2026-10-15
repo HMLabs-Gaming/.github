@@ -47,10 +47,6 @@ Most projects are developed and maintained independently by Henry Meyer.
 
 Source code is available on GitHub where applicable. Individual projects may have their own licenses, requirements and contribution guidelines. Please check the respective repository for more information.
 
-## Contact
-
-For questions, suggestions, bug reports or other inquiries, please use the appropriate contact options provided on the individual project or website.
-
 ---
 
 <sub>A [HMLabs](https://hmlabs.eu) Project.</sub>  
