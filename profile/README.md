@@ -8,11 +8,11 @@ HMLabs Gaming is a collection of Minecraft projects focused on creating mods, pl
 
 **Modpacks**
 
-* [HM Basic Play](https://github.com/HMLabs-Gaming/hm-basic-play)
+* [HM Basic Play](https://gaming.hmlabs.eu/projects/modpacks/hm-basic-play/)
 * [JS Combat Pro](https://gaming.hmlabs.eu/projects/modpacks/js-combat-pro/)
-* [HM Life+](https://github.com/HMLabs-Gaming/hm-lifep)
+* [HM Life+](https://gaming.hmlabs.eu/projects/modpacks/hm-lifep/)
 * [JS Performance Core](https://gaming.hmlabs.eu/projects/modpacks/js-performance-core/)
-* [HMT Pack](https://github.com/HMLabs-Gaming/hmt-pack)
+* [HMT Pack](https://gaming.hmlabs.eu/projects/modpacks/hmt-pack/)
 
 **Resource Packs**
 
@@ -22,8 +22,14 @@ HMLabs Gaming is a collection of Minecraft projects focused on creating mods, pl
 
 **Mods**
 
-* [Attribute PVP Helper Reforged](https://github.com/HMLabs-Gaming/attribute-pvp-helper)
-* [HM Stats](https://github.com/HMLabs-Gaming-Stats-Mod)
+* [Attribute PVP Helper Reforged](https://gaming.hmlabs.eu/projects/mods/attribute-pvp-helper-reforged/)
+* [HM Scoreboard Toggle](https://gaming.hmlabs.eu/projects/mods/hm-scoreboard-toggle/)
+* [Better Ping Display Reforged](https://gaming.hmlabs.eu/projects/mods/better-ping-display-reforged/)
+
+**Plugins**
+
+* [HMTAPI](https://gaming.hmlabs.eu/projects/plugins/hmtapi/)
+* [HMTSync](https://gaming.hmlabs.eu/projects/plugins/hmtsync/)
 
 All projects are developed with a focus on quality, compatibility and a good user experience.
 
@@ -33,8 +39,7 @@ You can find HMLabs Gaming projects on the following platforms:
 
 * [Website](https://gaming.hmlabs.eu)
 * [GitHub](https://github.com/HMLabs-Gaming)
-* [Modrinth](https://modrinth.com/organization/9zYhowm8)
-* [CurseForge](https://www.curseforge.com/members/henrymmey)
+* [Modrinth](https://modrinth.com/organization/9zYhowm8), [CurseForge](https://www.curseforge.com/members/henrymmey), [Hangar](https://hangar.papermc.io/HMLabs-Gaming), [SpigotMC](https://www.spigotmc.org/members/henrymmey.2623317/), [Planet Minecraft](https://www.planetminecraft.com/member/henrymmey/)
 
 ## Development
 
