@@ -1,5 +1,7 @@
 # HMLabs Gaming
 
+[![HMLabs Gaming](https://modfolio.creeperkatze.dev/modrinth/organization/9zYhowm8?showProjects=false&animations=false)](https://modrinth.com/organization/9zYhowm8)
+
 Minecraft projects by Henry Meyer.
 
 HMLabs Gaming is a collection of Minecraft projects focused on creating mods, plugins, modpacks and resource packs. The goal is to build reliable, well-designed and enjoyable projects for the Minecraft community.
