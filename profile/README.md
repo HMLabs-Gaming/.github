@@ -1,7 +1,19 @@
 # HMLabs Gaming
 
-[![HMLabs Gaming](https://modfolio.creeperkatze.dev/modrinth/organization/9zYhowm8?showProjects=false&animations=false)](https://modrinth.com/organization/9zYhowm8) [![HMLabs Gaming](https://modfolio.creeperkatze.dev/curseforge/user/131181312?showProjects=false&animations=false)](https://modrinth.com/organization/9zYhowm8)  
-[![HMLabs Gaming](https://modfolio.creeperkatze.dev/hangar/user/HMLabs-Gaming?showProjects=false&animations=false)](https://modrinth.com/organization/9zYhowm8) [![HMLabs Gaming](https://modfolio.creeperkatze.dev/spigot/author/2623317?showProjects=false&animations=false)](https://modrinth.com/organization/9zYhowm8)
+<div align="center">
+  <a href="https://modrinth.com/organization/9zYhowm8">
+    <img src="https://modfolio.creeperkatze.dev/modrinth/organization/9zYhowm8?showProjects=false&animations=false" />
+  </a>
+  <a href="https://modrinth.com/organization/9zYhowm8">
+    <img src="https://modfolio.creeperkatze.dev/curseforge/user/131181312?showProjects=false&animations=false" />
+  </a>
+  <a href="https://modrinth.com/organization/9zYhowm8">
+    <img src="https://modfolio.creeperkatze.dev/hangar/user/HMLabs-Gaming?showProjects=false&animations=false" />
+  </a>
+  <a href="https://modrinth.com/organization/9zYhowm8">
+    <img src="https://modfolio.creeperkatze.dev/spigot/author/2623317?showProjects=false&animations=false" />
+  </a>
+</div>
 
 Minecraft projects by Henry Meyer.
 
