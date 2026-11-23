@@ -1,7 +1,7 @@
 # HMLabs Gaming
 
 [![HMLabs Gaming](https://modfolio.creeperkatze.dev/modrinth/organization/9zYhowm8?showProjects=false&animations=false)](https://modrinth.com/organization/9zYhowm8)
-[![HMLabs Gaming](https://modfolio.creeperkatze.dev/curseforge/user/131181312?showProjects=false&animations=false)](https://modrinth.com/organization/9zYhowm8)
+[![HMLabs Gaming](https://modfolio.creeperkatze.dev/curseforge/user/131181312?showProjects=false&animations=false)](https://www.curseforge.com/members/henrymmey/projects)
 
 Minecraft projects by Henry Meyer.
 
